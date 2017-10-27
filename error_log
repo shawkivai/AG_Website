@@ -1,0 +1,4 @@
+[16-Feb-2017 23:51:03 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/pstuac/public_html/cse/application/views/master.php on line 6
+[17-Feb-2017 00:04:00 America/Chicago] PHP Parse error:  syntax error, unexpected '$home' (T_VARIABLE) in /home/pstuac/public_html/cse/application/controllers/welcome.php on line 26
+[17-Feb-2017 00:10:25 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/pstuac/public_html/cse/application/controllers/welcome.php on line 414
+[17-Feb-2017 00:56:22 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/pstuac/public_html/cse/application/views/gallery_view.php on line 56
